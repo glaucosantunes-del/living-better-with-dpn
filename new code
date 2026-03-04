@@ -1,8 +1,0 @@
-export default function Home() {
-  return (
-    <div style={{ padding: 40 }}>
-      <h1>Living Better with DPN</h1>
-      <p>Site under construction.</p>
-    </div>
-  );
-}
