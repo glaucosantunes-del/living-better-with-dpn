@@ -1,20 +1,28 @@
 export default function About() {
   return (
-    <main style={{ padding: "40px", fontFamily: "Arial" }}>
+    <main>
       <h1>About Living Better with DPN</h1>
 
+      <p>This page shares the story behind Living Better with DPN.</p>
+
       <p>
-        This website shares real-life experience living
-        with diabetes and diabetic peripheral neuropathy.
+        Living with diabetes since 2014 and managing
+        Diabetic Peripheral Neuropathy through research,
+        discipline, and real-world experimentation.
       </p>
 
       <p>
-        The goal is to help others understand practical
-        ways to manage neuropathy in daily life.
+        This website shares practical insights from my
+        own experience living with diabetes and DPN.
       </p>
 
       <p>
-        Content is based on lived experience and research.
+        This content is not medical advice — only
+        real-life experience that may help others.
+      </p>
+    </main>
+  )
+} on lived experience and research.
         It is not medical advice.
       </p>
     </main>
