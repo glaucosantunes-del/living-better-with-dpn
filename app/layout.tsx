@@ -6,8 +6,12 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body style={{fontFamily: "Arial", margin: 0, padding: 20}}>
+      <body style={{fontFamily:"Arial", padding:40}}>
         {children}
+      </body>
+    </html>
+  )
+}
       </body>
     </html>
   )
